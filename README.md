@@ -1,2 +1,2 @@
 # PairProgramming
-Demo
+JS for Print, Input and If.
